@@ -1,0 +1,52 @@
+.App {
+  background-color: rgb(170, 202, 243);
+  display: flex;
+  height: 768px;
+  width: 1366px;
+}
+
+.main-container {
+  position: absolute;
+  background-color: #ffffff;
+  box-shadow: 0px 25px 25px;
+  border-radius: 20px;
+  height: 497px;
+  width: 320px;
+  top: 30%;
+  margin-top: -90px;
+  margin-left: 514px;
+}
+
+.qr-image {
+  width: 288px;
+  height: 288px;
+  left: 576px;
+  top: 168px;
+  border-radius: 10px;
+  margin: 16px 16px 16px 16px;
+}
+
+.text-container, h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
+  text-align: center;
+  color: #1F314F;
+  padding: 3px 3px 3px 3px;
+}
+
+.text-container, p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.1875px;
+  color: #7D889E;
+  padding: 2px 2px 2px 2px;
+
+}
+
